@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyService</string>
+    <string name="hi_this_is_text_field">Hi this is text field</string>
 </resources>
